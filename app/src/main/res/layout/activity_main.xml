@@ -44,5 +44,15 @@
         android:background="@drawable/custom"
         android:layout_margin="10dp"
         android:textSize="18dp" />
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#CDDC39"
+        android:text="Button4"
+        android:background="@drawable/custom"
+        android:layout_margin="10dp"
+        android:textSize="18dp" />
+
 </LinearLayout>
 
